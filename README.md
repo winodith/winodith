@@ -11,8 +11,8 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/winodith" target="blank"> 
-    <img src="https://img.shields.io/twitter/follow/winodith?logo=twitter&style=for-the-badge" alt="usal_winodith" />
+  <a href="https://twitter.com/usal_winodith" target="blank"> 
+    <img src="https://img.shields.io/twitter/follow/usal_winodith?logo=twitter&style=for-the-badge" alt="winodith" />
   </a>
 </p>
 
