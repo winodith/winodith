@@ -7,12 +7,12 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=winodith&label=Profile%20views&color=0e75b6&style=flat" alt="usal_winodith" />
+  <img src="https://komarev.com/ghpvc/?username=winodith&label=Profile%20views&color=0e75b6&style=flat" alt="winodith" />
 </p>
 
 <p align="left">
   <a href="https://twitter.com/winodith" target="blank"> 
-    <img src="https://img.shields.io/twitter/follow/winodith?logo=twitter&style=for-the-badge" alt="winodith" />
+    <img src="https://img.shields.io/twitter/follow/winodith?logo=twitter&style=for-the-badge" alt="usal_winodith" />
   </a>
 </p>
 
