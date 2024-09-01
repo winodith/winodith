@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=winodith&label=Profile%20views&color=0e75b6&style=flat" alt="winodith" />
+  <img src="https://komarev.com/ghpvc/?username=winodith&label=Profile%20views&color=0e75b6&style=flat" alt="usal_winodith" />
 </p>
 
 <p align="left">
