@@ -19,6 +19,9 @@
   <a href="https://www.instagram.com/winodith" target="blank">
     <img src="https://img.shields.io/badge/Instagram-follow-red?style=for-the-badge&logo=instagram" alt="Instagram Profile" />
   </a>
+  <a href="https://www.linkedin.com/in/usal-winodith" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
 </p>
 
 ### About Me
