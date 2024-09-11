@@ -13,13 +13,13 @@
   <a href="https://twitter.com/usal_winodith" target="blank"> 
     <img src="https://img.shields.io/twitter/follow/usal_winodith?logo=twitter&style=for-the-badge" alt="winodith" />
   </a>
-  <a href="https://www.facebook.com/usal.winodith" target="blank">
+  <a href="https://www.facebook.com/usal_inodith" target="blank">
     <img src="https://img.shields.io/badge/Facebook-follow-blue?style=for-the-badge&logo=facebook" alt="Facebook Profile" />
   </a>
   <a href="https://www.instagram.com/winodith" target="blank">
     <img src="https://img.shields.io/badge/Instagram-follow-red?style=for-the-badge&logo=instagram" alt="Instagram Profile" />
   </a>
-  <a href="https://www.linkedin.com/in/usal-winodith" target="blank">
+  <a href="https://www.linkedin.com/in/usal_winodith" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
   </a>
 </p>
